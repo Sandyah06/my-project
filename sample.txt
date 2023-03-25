@@ -1,1 +1,10 @@
 working with open source git commamnds
+ basic commands with git
+   vgit config.
+   git init.
+   git clone.
+   git add.
+   git commit.
+   git diff.
+   git reset.
+   git status.
